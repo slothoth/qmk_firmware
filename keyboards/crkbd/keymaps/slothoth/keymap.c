@@ -114,7 +114,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   
   [_SYM] = LAYOUT_split_3x6_3(
   //,-----------------------------------------------------.                    ,-----------------------------------------------------.
-       KC_GRV, KC_AMPR, KC_LABK,  MY_UNDO,  KC_RABK, KC_CIRC,                       KC_6,    KC_7,    KC_UP,   KC_9,     KC_0,   _______,
+       KC_GRV, KC_AMPR, KC_LABK,  MY_UNDO,  KC_RABK, KC_CIRC,                       KC_2,    KC_3,    KC_UP,   KC_9,     KC_0,   _______,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
       KC_TILD, KC_EXLM, MY_CUT, MY_PST, MY_CPY, KC_PERC,                      KC_UNDS,  KC_LEFT, KC_DOWN, KC_RGHT, KC_MINS, KC_PLUS,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
